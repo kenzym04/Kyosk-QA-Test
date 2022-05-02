@@ -7,8 +7,7 @@
 - Worksheet#1: Product Backlog
 - Worksheet#2: Sprint Planning
 - Worksheet#3: Test Cases
-- Worksheet#4: Test Scenarios
-- Worksheet#5: API Test Cases
+- Worksheet#4: API Test Cases
 
 ## Workbook#2: Kyosk Test Execution and Bug Report_V1
 
