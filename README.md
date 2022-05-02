@@ -1,19 +1,19 @@
 # Kyosk QA Test
 
-## Take Home Test
+## Take Home Test Contents
 
-## 1. Agile Epics User Stories and Tests
+## Workbook#1: Agile Epics User Stories and Tests
 
-- Product Backlog
-- Sprint Planning
-- Test Cases
-- Test Scenarios
-- API Test Cases
+- Worksheet#1: Product Backlog
+- Worksheet#2: Sprint Planning
+- Worksheet#3: Test Cases
+- Worksheet#4: Test Scenarios
+- Worksheet#5: API Test Cases
 
-## 2. Kyosk Test Execution and Bug Report_V1
+## Workbook#2: Kyosk Test Execution and Bug Report_V1
 
-- Test Execution
-- Bug report
+- Worksheet#1: Test Execution
+- Worksheet#2: Bug report
 
 ## Edge Cases
 
