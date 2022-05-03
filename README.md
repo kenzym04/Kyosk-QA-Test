@@ -25,6 +25,6 @@
 7. Can you feed time such that the cutoff time collides with dispatch time or dispatch collides with delivery time? e.g. the last 2 hours of cutoff is the same time for dispatch.
 8. What happens when the order window update messages are delayed due to latency/technical ussues?
 9. Can there be double order entry when the user places an order at the exact delivery window time limit and the timestamp captured is a second later? 
-10. Can I search for order using a future date range?
+10. Can I search for an order using a future date range?
 
 
